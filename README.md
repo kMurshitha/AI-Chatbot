@@ -1,4 +1,4 @@
-# AI Chatbot
+# OpenAi Chatbot
 
 ![chatbot](https://github.com/kMurshitha/AI-Chatbot/assets/95700042/99d3f83b-b424-4f19-9118-37918aad7e7d)
 
@@ -44,8 +44,8 @@ Key highlights of the AI Chatbot include:
 
 Before setting up the AI Chatbot, ensure you have the following prerequisites installed:
 
-- Python 3.x
-- Virtual environment (optional but recommended)
+- HTML
+- Bootstrap
 
 ### Installation
 
@@ -61,14 +61,8 @@ Before setting up the AI Chatbot, ensure you have the following prerequisites in
    cd ai-chatbot
    ```
 
-3. (Optional) Create a virtual environment and activate it:
 
-   ```shell
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-4. Configure the chatbot by editing the configuration files to customize its behavior and responses.
+3. Configure the chatbot by editing the configuration files to customize its behavior and responses.
 
 ## Usage
 
